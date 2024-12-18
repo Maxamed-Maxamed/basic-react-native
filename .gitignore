@@ -38,3 +38,5 @@ yarn-error.*
 app-example
 
 app.d.ts
+
+nativewind-env.d.ts
