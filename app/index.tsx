@@ -4,7 +4,7 @@ import "../global.css";
 export default function HomeScreen() {
   return (
     <View className="flex-1 items-center justify-center bg-white">
-      <Text>Home Screen</Text>
+      <Text className= "bg-red-500">Home Screen</Text>
     </View>
   );
 }
